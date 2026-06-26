@@ -1,0 +1,50 @@
+.titulo1{
+    font-family: Impact, sans-serif;
+    color: #CE5937;
+    margin-top: 20px; 
+}
+
+body{
+    font-family: Arial, sans-serif;
+    background-color: #F4F4F4;
+}
+p{
+    color: #333; 
+    border-top: 12px;
+    border-width: 12px; 
+}
+
+nav{
+    border-right: 2px solid;  
+    width: 8%; 
+    height: 120px;
+}
+
+nav ul{
+    list-style: none; 
+    padding: 0;
+}
+
+nav ul li{
+    padding: 10px; 
+    border-bottom: 1px solid;
+    border-top: 1px solid;
+    border-right: 1px solid;  
+}
+
+table{
+    border-collapse: collapse; 
+    border-bottom: 1px solid; 
+    border-right: 1px solid; 
+    border-top: 1px solid; 
+}
+
+tr{
+    width: 120px;
+    padding: 4px;   
+}
+
+th{
+    background-color: #CE5937;
+    padding: 8px;
+}
